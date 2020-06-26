@@ -1,4 +1,4 @@
 require './environment'
 
-puts "Your configured username is '#{ENV['user_name']}'."
-puts "Your configured password is '#{ENV['password']}'."
+puts "Your username is currently set to '#{ENV['user_name']}'."
+puts "Your password is currently set to '#{ENV['password']}'."
