@@ -187,17 +187,3 @@ The script commits and pushes your **all** files in the working area to the "mas
 ./push my-other-branch
 ```
 
-
-
-
-
-
-### Editing file on 2020-08-13_18-04-59
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
-
-
