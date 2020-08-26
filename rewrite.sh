@@ -1,7 +1,5 @@
 #!/bin/sh
 
-#Thanks but no thanks
-
 git filter-branch --env-filter '
 
 OLD_EMAIL="noname@example.com"
