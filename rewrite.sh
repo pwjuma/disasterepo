@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#Thanks
+#Thanks but no thanks
 
 git filter-branch --env-filter '
 
