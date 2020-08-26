@@ -1,5 +1,5 @@
 #!/bin/sh
-#bye #bye
+#bye #bye #irony
 git filter-branch --env-filter '
 
 OLD_EMAIL="noname@example.com"
