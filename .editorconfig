@@ -19,6 +19,3 @@ indent_size = 8
 
 [*.{diff,md}]
 trim_trailing_whitespace = false
-
-[*.hbs]
-insert_final_newline = true
