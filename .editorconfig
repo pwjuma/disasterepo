@@ -15,7 +15,7 @@ indent_size = 2
 
 [*.txt]
 indent_style = tab
-indent_size = 4
+indent_size = 8
 
 [*.{diff,md}]
 trim_trailing_whitespace = false
