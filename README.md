@@ -183,4 +183,3 @@ The script commits and pushes your **all** files in the working area to the "mas
 ./push.sh 
 ```
 
-
