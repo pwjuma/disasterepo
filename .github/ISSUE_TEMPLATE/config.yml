@@ -2,5 +2,5 @@
     contact_links:
       - name: Bug Report
         about: Create a report of the issue you've encountered.
-        url: https://github.com/peterjuma/disasterepo/issues/new?template=bug_report.yml
+        url: https://github.com/peterjuma/disasterepo/issues/new?template=bug_report.yml&assignees=peterjuma
         
